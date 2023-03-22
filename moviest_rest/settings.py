@@ -80,7 +80,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.postgresql',
         'NAME': 'movies_rest_eve',
         'USER': 'postgres',
-        'PASSWORD': 'postgres',
+        'PASSWORD': '83199394',
         'HOST': '127.0.0.1',
         'PORT': '5432',
     }
